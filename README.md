@@ -12,7 +12,7 @@ If the original game updates, here is how you can update the mirror:
 
 #### 1. Fetch all new images :
 
-From the root,
+From the rot,
 
 * `cd img/`
 * `wget --convert-links -O index.html http://orteil.dashnet.org/cookieclicker/img/`
